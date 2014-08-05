@@ -31,8 +31,7 @@ def gen_ulc(lat,lon):
 	return(out)
 
 if __name__ == "__main__":
-	#variable_names = np.array(['treecover2000','loss', 'gain', 'lossyear', 'datamask', 'first', 'last']) #finished these variables 07.23.14
-	variable_names = np.array(['last'])
+	variable_names = np.array(['treecover2000','loss', 'gain', 'lossyear', 'datamask', 'first', 'last']) #finished these variables 07.23.14
 	localworkspace = 'C://Users/tony/OSS/Project/data/Hansen/' #change this workspace to your specific drive that you desire
 	latlist = np.arange(30,60,10) #minor changes to make...modified 07.23.14
 	lonlist = np.arange(70,140,10)
