@@ -1,0 +1,833 @@
+Information_d’identification:
+  Citation:
+    Information_de_citation:
+      Créateur: Instituto Nacional de Estadística Geografía e Informática 
+      Créateur: Gouvernement du Canada, Ressources naturelles Canada, Centre canadien de 
+        télédétection, Atlas du Canada
+      Créateur: U.S. Geological Survey
+      Date_de_publication: 200608
+      Titre: Atlas de l’Amérique du Nord – Limites administratives
+      Formulaire_de_présentation_des_données_géospatiales: Données numériques vectorielles 
+      Information_sur_la_publication:
+        Lieu_de_publication: Ottawa, Ontario, Canada
+        Éditeur: Gouvernement du Canada
+      Lien_en_direct:
+        http://geogratis.gc.ca/download/frameworkdata/North_America_Atlas10M/boundaries/
+      Information_sur_la_publication:
+        Lieu_de_publication: Aguascalientes, Aguascalientes, Mexique
+        Éditeur: 
+          Instituto Nacional de Estadística, Geografía e Informática (INEGI)
+      Lien_en_direct: http://antares.inegi.gob.mx/atlas_norteamerica/
+      Information_sur_la_publication:
+        Lieu_de_publication: Reston, Virginie, É.-U.
+        Éditeur: U.S. Geological Survey
+      Lien_en_direct: http://nationalatlas.gov/atlasftp-na.html
+
+  Description:
+    Résumé:
+      Le Canada (Ressources naturelles Canada), le Mexique (Instituto Nacional de Estadística 
+      Geografía e Informática), les États-Unis (U.S. Geological Survey) et la Commission nord-
+      américaine de coopération environnementale ont entrepris une initiative conjointe dans 
+      laquelle s’inscrivent leurs programmes respectifs de l’Atlas de l’Amérique du Nord.  
+      Cette initiative a mené à la publication (juin 2004) de plusieurs nouveaux produits, 
+      soit une carte papier à jour de l’Amérique du Nord, ainsi que les jeux de données 
+      géospatiales connexes et les métadonnées qui leur sont rattachées. Chaque pays 
+      partenaire a rendu possible la visualisation et le téléchargement en ligne de ces jeux 
+      de données. Ces données ont été revisées et rendues disponibles à nouveau en 2006.
+
+      Les données de l’Atlas de l’Amérique du Nord sont regroupées en jeux de données 
+      géospatiales normalisées à l’échelle de 1/10 000 000. Diverses couches de données de 
+      base (p. ex. routes, chemins de fer, centres habités, limites administratives, 
+      hydrographie, bathymétrie, glaces de mer et glaciers) ont été intégrées afin de 
+      s’assurer que leur positionnement relatif est correct. Cet ensemble de jeux de données 
+      constitue une base à laquelle d’autres données thématiques de l’Atlas de l’Amérique 
+      du Nord pourront être intégrées. Les données de l’Atlas de l’Amérique du Nord couvrant 
+      des régions situées à l’extérieur du Canada, du Mexique et des États-Unis n’ont été 
+      incluses qu’afin de fournir un contexte complet.
+
+      Le jeu de données intitulé « Atlas de l’Amérique du Nord – Limites administratives » 
+      représente des entités politiques nord-américaines sous forme de polygones indiquant des 
+      zones juridictionnelles et sous forme de lignes indiquant des limites administratives, y 
+      compris des frontières internationales, des limites provinciales, territoriales et 
+      d’États, ainsi que la ligne internationale de changement de date.  
+
+      Ce jeu de données a été produit au moyen de fichiers numériques fournis par Ressources 
+      naturelles Canada, l’Instituto Nacional de Estadística Geografía e Informática et le 
+      U.S. Geological Survey. 
+
+    But:
+      Les données de l’Atlas de l’Amérique du Nord sont destinées à l’analyse et à la 
+      visualisation géographiques à l’échelle nationale et continentale. Elles devraient être 
+      visualisées et analysées à des échelles convenant aux données à l’échelle 
+      de 1/10 000 000. Ressources naturelles Canada, l’Instituto Nacional de Estadística 
+      Geografía e Informática et le U.S. Geological Survey n’assument aucune responsabilité 
+      quant à leur utilisation.
+
+    Information_supplémentaire:
+      La Commission nord-américaine de coopération environnementale (CCE) est un organisme 
+      international qui a été fondé par le Canada, le Mexique et les États-Unis en vertu de 
+      l’Accord nord-américain de coopération dans le domaine de l’environnement (ANACDE). La 
+      CCE a été formée afin d’aborder des questions environnementales, de contribuer à la 
+      prévention de différends en matière d’environnement et de commerce, ainsi que de 
+      promouvoir l’application efficace des lois environnementales. L’ANACDE complète les 
+      dispositions environnementales de l’Accord de libre-échange nord-américain (ALENA). Il 
+      est possible d’obtenir de plus amples renseignements sur la CCE sur le site Web
+      http://www.cec.org/ ou à l’adresse suivante : 
+      >Commission nord-américaine de coopération environnementale
+      >393, rue St-Jacques Ouest
+      >Bureau 200
+      >Montréal (Québec)
+      >H2Y 1N9 Canada
+      >
+      >Téléphone: (514) 350-4300
+      >Fax: (514) 350-4314
+      >Courrier électronique: info@ccemtl.org
+      >
+      Tous les jeux de données de l’Atlas de l’Amérique du Nord sont disponibles sous trois 
+      formats : Arc/INFO Export (e00), ArcView Shapefile et Geography Markup Language (GML).
+
+      Bien que ces données soient distribuées sous forme de coordonnées géographiques, la 
+      carte de l’Atlas de l’Amérique du Nord a été dressée en projection équivalente 
+      de Lambert, d’après les paramètres suivants:
+      >Longitude_of_Projection_Center: -100.00 
+      >Latitude_of_Projection_Center: 45.00 
+      >False_Easting (metres): 0.0 
+      >False_Northing (metres): 0.0 
+      >Semi-major_Axis: 6370997.0 
+      >Denominator_of_Flattening_Ratio: 1.0
+      >Ellipsoid_Name: Sphère 
+      >Units: Mètres
+
+      Les frontières des états en Mexique sont incluses pour les besoins d'illustration.  
+      Elles ont été obtenues des sources variées.  INEGI n'accepte aucune responsabilité pour 
+      leur validité ni précision.
+
+  Période_de_temps_du_contenu:
+    Information_sur_la_période_de_temps:
+      Date_unique:
+        Date_calendaire: 200608
+    Référence_à_l'actualité: Date de publication 
+
+  État:
+    Progrès: Terminé
+    Fréquence_de_mise_à_jour_et_d'actualisation: Irrégulier 
+
+  Domaine_spatial:
+    Coordonnées_de_délimitation:
+      Coordonnées_de_délimitation_Ouest: 152.0 
+      Coordonnées_de_délimitation_Est: 4.0
+      Coordonnées_de_délimitation_Nord: 90.0
+      Coordonnées_de_délimitation_Sud: -5.0
+
+  Mots-clés:
+    Thème:
+      Thésaurus_de_mots-clés_du_thème: Aucun 
+      Mots-clés_du_thème: Frontière
+      Mots-clés_du_thème: Limite administrative
+      Mots-clés_du_thème: Frontière internationale
+      Mots-clés_du_thème: Ligne internationale de changement de date
+      Mots-clés_du_thème: Limite d’État
+      Mots-clés_du_thème: Limite provinciale
+      Mots-clés_du_thème: Limite territoriale
+
+    Lieu:
+      Thésaurus_de_mots-clés_de_lieu: Aucun
+      Mots-clés_de_lieu: Latitude moyenne
+      Mots-clés_de_lieu: Hémisphère Ouest
+      Mots-clés_de_lieu: Hémisphère Nord
+      Mots-clés_de_lieu: Amérique du Nord
+      Mots-clés_de_lieu: ALENA
+      Mots-clés_de_lieu: Accord de libre-échange nord-américain 
+      Mots-clés_de_lieu: Canada
+      Mots-clés_de_lieu: Mexique
+      Mots-clés_de_lieu: États-Unis
+
+  Contraintes_d'accès: Aucune
+  Contraintes_d'utilisation: 
+    Toutes les données sur le Canada et d’autres endroits situés à l’extérieur du Mexique et 
+    des États-Unis sont visées par l’accord d’utilisation des données numériques du site Web 
+    GéoGratis (voir http://geogratis.gc.ca/f_license.html).
+
+    Aucune limite d’utilisation n’a été établie quant aux données sur le Mexique et 
+    les États-Unis. Il serait toutefois apprécié que les produits basés sur ces données soient 
+    accompagnés d’un remerciement adressé aux responsables de l’Atlas de l’Amérique du Nord, à 
+    l’Instituto Nacional de Estadística Geografía e Informática, à Ressources naturelles Canada 
+    et au U.S. Geological Survey.
+
+  Contact:
+    Information_sur_le_contact:
+      Organisation_contact_primaire:
+        Organisation_contact: 
+          Gouvernement du Canada, Ressources naturelles Canada, Centre canadien de 
+          télédétection, Atlas du Canada
+      Personne_contact: Services à la clientèle de l’Atlas du Canada
+      Adresse_du_contact:
+        Type_d’adresse: Adresse postale 
+        Adresse: 615, rue Booth, bureau 650 
+        Ville: Ottawa
+        Province_ou_État: Ontario
+        Pays: Canada
+        Code_postal_ou_ZIP: K1A 0E9
+      Télécopieur_du_contact: +01 613 947 2410
+      Courriel_du_contact: info@atlas.gc.ca
+  Contact:
+    Information_sur_le_contact:
+      Personne_contact_primaire:
+        Personne_contact: Jorge Padilla Noriega
+        Organisation_contact: Dirección General de Geografía, INEGI
+      Adresse_du_contact:
+        Type_d’adresse: Adresse postale 
+        Adresse: Av Heroe de Nacozari Sur 2301
+        Adresse: Fracc Jardines del Parque
+        Ville: Aguascalientes
+        Province_ou_État: Aguascalientes
+        Pays: Mexique
+        Code_postal_ou_ZIP: 20270
+      Numero_de_téléphone_du_contact: 52 449 910 5349
+      Courriel_du_contact: jorge.padilla@inegi.gob.mx
+  Contact:
+    Information_sur_le_contact:
+      Organisation_contact_primaire:
+        Organisation_contact: U.S. Geological Survey
+        Personne_contact: John Hutchinson
+      Adresse_du_contact:
+        Type_d’adresse: Adresse postale 
+        Adresse: Centre de données EROS du USGS
+        Ville: Sioux Falls
+        Province_ou_État: Dakota du Sud
+        Pays: États-Unis
+        Code_postal_ou_ZIP: 57198-0001
+      Numero_de_téléphone_du_contact: 605 594 6049
+      Télécopieur_du_contact: 605 594 6529
+      Courriel_du_contact: atlasmail@usgs.gov
+
+Information_sur_la_qualité_des_données:
+  Précision_d’attribut:
+    Rapport_sur_la_précision_d’attribut: 
+      Lorsque possible, la qualité des données d’attributs a été contrôlée en produisant des 
+      affichages numériques ou des tracés sur support papier avec symboles et en les vérifiant 
+      visuellement d’après des données de référence sur support numérique ou papier. Les 
+      données d’attributs qui n’ont pas été ainsi examinées ont fait l’objet d’une recherche 
+      interactive visant à relever des anomalies (p. ex. dédoublement de données dans les 
+      champs ne devant comporter qu’une seule valeur et codage erroné d’entités). Les données 
+      de l’Atlas de l’Amérique du Nord pour des régions situées à l’extérieur du Canada, du 
+      Mexique et des États-Unis n’ont été incluses qu’afin de fournir un contexte complet; 
+      Ressources naturelles Canada, l’Instituto Nacional de Estadística Geografía e 
+      Informática et le U.S. Geological Survey n’assument aucune responsabilité quant à 
+      l’intégralité, l’exactitude ou la présentation de ces données.
+  Rapport_de_consistance_logique: 
+    Afin d’établir une structure topologique des polygones, on a défini une topologie et 
+    effectué un contrôle de la qualité des données des polygones sur les limites 
+    administratives. Le fichier sur les limites administratives a fait l’objet d’un contrôle 
+    de la qualité afin d’assurer une cohérence avec les données des polygones correspondantes.   
+  Rapport_de_complétude:
+    Ce jeu comprend des données sur les limites administratives pour l’ensemble de l’Amérique 
+    du Nord, à l’échelle de 1/10 000 000. L’intégralité des données découle du contenu des 
+    données de base ainsi que de l’intégration des cartographes et du contrôle de la qualité 
+    du contenu effectués dans chaque pays.
+  Précision_d’alignement: 
+    Précision_d’alignement_horizontal: 
+      Rapport_de_précision_d’alignement_horizontal: 
+        L’exactitude du positionnement est indéterminée. Le positionnement est fonction de 
+        l’exactitude des données de base et du résultat des processus de généralisation et 
+        d’intégration. Les données de l’Atlas de l’Amérique du Nord couvrant des régions 
+        situées à l’extérieur du Canada, du Mexique et des États-Unis n’ont été incluses 
+        qu’afin de fournir un contexte complet; Ressources naturelles Canada, l’Instituto 
+        Nacional de Estadística Geografía e Informática et le U.S. Geological Survey 
+        n’assument aucune responsabilité quant à l’intégralité, l’exactitude ou la 
+        présentation de ces données.
+
+        Les frontières des états en Mexique sont incluses pour les besoins d'illustration.  
+        Elles ont été obtenues des sources variées.  INEGI n'accepte aucune responsabilité 
+        pour leur validité ni précision.
+
+  Lignage:
+    Information_sur_la_source: 
+      Citation_de_la_source:
+        Information_de_citation:
+          Créateur:
+            Gouvernement du Canada, Ressources naturelles Canada, Centre canadien de 
+            télédétection, Atlas du Canada
+          Date_de_publication: 2002
+          Titre: 
+            Série de cartes de référence à l’échelle de 1/6 000 000 de l’Atlas national 
+            du Canada – Limites administratives
+          Formulaire_de_présentation_des_données_géospatiales: Données numériques vectorielles
+          Information_sur_la_publication:
+            Lieu_de_publication: Ottawa, Ontario, Canada
+            Éditeur: 
+              Gouvernement du Canada, Ressources naturelles Canada, Centre canadien de 
+              télédétection, Atlas du Canada
+      Dénominateur_de_l’échelle_de_la_source: 6 000 000
+      Type_de_média_source: En ligne 
+      Période_de_temps_du_contenu_de_la_source:
+        Information_sur_la_période_de_temps: 
+          Date_unique:
+            Date_calendaire: 2002
+        Référence_à_l’actualité_de_la_source: État au sol
+      Citation_abrégée_de_la_source: Limites AC 6M
+      Contribution_de_la_source: Données spatiales et d’attributs 
+
+    Information_sur_la_source: 
+      Citation_de_la_source:
+        Information_de_citation:
+          Créateur:
+            Gouvernement du Canada, Ressources naturelles Canada, Centre canadien de 
+            télédétection, Atlas du Canada
+          Date_de_publication: 2000
+          Titre: Série de cartes de référence de l’Atlas national du Canada - Amérique du Nord 
+          Formulaire_de_présentation_des_données_géospatiales: Données numériques vectorielles    
+          Information_sur_la_publication:
+            Lieu_de_publication: Ottawa, Ontario, Canada
+            Éditeur: 
+              Gouvernement du Canada, Ressources naturelles Canada, Centre canadien de 
+              télédétection, Atlas du Canada
+      Dénominateur_de_l’échelle_de_la_source: 10 000 000
+      Type_de_média_source: En ligne 
+      Période_de_temps_du_contenu_de_la_source:
+        Information_sur_la_période_de_temps:
+          Date_unique:
+            Date_calendaire: 2000
+        Référence_à_l’actualité_de_la_source: État au sol
+      Citation_abrégée_de_la_source: Référence Amérique du Nord
+      Contribution_de_la_source: Données spatiales
+
+    Information_sur_la_source: 
+      Citation_de_la_source:
+        Information_de_citation:
+          Créateur: Instituto Nacional de Estadística Geografía e Informática
+          Date_de_publication: 200407
+          Titre: Conjunto de Datos Vectoriales Topográficos escala 1:4,000,000
+          Formulaire_de_présentation_des_données_géospatiales: Données numériques vectorielles    
+          Information_sur_la_publication:
+            Lieu_de_publication: Aguascalientes, Aguascalientes, Mexique
+            Éditeur: 
+              Instituto Nacional de Estadística, Geografía e Informática (INEGI)
+      Dénominateur_de_l’échelle_de_la_source: 4 000 000
+      Type_de_média_source: CD-ROM 
+      Période_de_temps_du_contenu_de_la_source:
+        Information_sur_la_période_de_temps:
+          Plusiers_dates_et_heures:
+            Date_de_début: 19930101
+            Date_de_fin: 19970401
+        Référence_à_l’actualité_de_la_source: État au sol
+      Citation_abrégée_de_la_source: Mexique 4M 
+      Contribution_de_la_source: Données spatiales et d’attributs 
+
+    Information_sur_la_source: 
+      Citation_de_la_source:
+        Information_de_citation:
+          Créateur: U.S. Geological Survey
+          Date_de_publication: Document inédit
+          Titre: 1:5,000,000 General Reference Map - Boundaries
+          Formulaire_de_présentation_des_données_géospatiales: Données numériques vectorielles    
+          Information_sur_la_publication:
+            Lieu_de_publication: Reston, Virginie, É.-U.
+            Éditeur: U.S. Geological Survey
+      Dénominateur_de_l’échelle_de_la_source: 5 000 000
+      Type_de_média_source: Fichier interne
+      Période_de_temps_du_contenu_de_la_source:
+        Information_sur_la_période_de_temps:
+          Date_unique:
+            Date_calendaire: 1998
+        Référence_à_l’actualité_de_la_source: Date de compilation des données
+      Citation_abrégée_de_la_source: Limites administratives É.-U. 5M
+      Contribution_de_la_source: Données spatiales et d’attributs 
+
+    Information_sur_la_source: 
+      Citation_de_la_source:
+        Information_de_citation:
+          Créateur: Instituto Nacional de Estadística Geografía e Informática 
+          Créateur: 
+            Gouvernement du Canada, Ressources naturelles Canada, Centre canadien de 
+            télédétection, Atlas du Canada
+          Créateur: U.S. Geological Survey
+          Date_de_publication: 200406
+          Titre: Atlas de l’Amérique du Nord - Hydrographie
+          Formulaire_de_présentation_des_données_géospatiales: Données numériques vectorielles    
+          Information_sur_la_publication:
+            Lieu_de_publication: Ottawa, Ontario, Canada
+            Éditeur: 
+              Gouvernement du Canada, Ressources naturelles Canada, Centre canadien de 
+              télédétection, Atlas du Canada
+          Information_sur_la_publication:
+            Lieu_de_publication: Aguascalientes, Aguascalientes, Mexique
+            Éditeur:
+              Instituto Nacional de Estadística, Geografía e Informática 
+              (INEGI)
+          Information_sur_la_publication:
+            Lieu_de_publication: Reston, Virginie, É.-U.
+            Éditeur: U.S. Geological Survey
+      Dénominateur_de_l’échelle_de_la_source: 10 000 000
+      Type_de_média_source: En ligne 
+      Période_de_temps_du_contenu_de_la_source:
+        Information_sur_la_période_de_temps: 
+          Date_unique:
+            Date_calendaire: 2004
+        Référence_à_l’actualité_de_la_source: Date de publication 
+      Citation_abrégée_de_la_source: AAN - Hydro
+      Contribution_de_la_source: Données spatiales
+
+    Information_sur_la_source: 
+      Citation_de_la_source:
+        Information_de_citation:
+          Créateur: Instituto Nacional de Estadística Geografía e Informática 
+          Créateur: Gouvernement du Canada, Ressources naturelles Canada, Centre 
+            canadien de télédétection, Atlas du Canada
+          Créateur: U.S. Geological Survey
+          Date_de_publication: 200608
+          Titre: Atlas de l’Amérique du Nord - Hydrographie
+          Formulaire_de_présentation_des_données_géospatiales: Données numériques vectorielles    
+          Information_sur_la_publication:
+            Lieu_de_publication: Ottawa, Ontario, Canada
+            Éditeur: Gouvernement du Canada, Ressources naturelles Canada, Centre 
+              canadien de télédétection, Atlas du Canada
+          Information_sur_la_publication:
+            Lieu_de_publication: Aguascalientes, Aguascalientes, Mexique
+            Éditeur: Instituto Nacional de Estadística, Geografía e Informática (INEGI)
+          Information_sur_la_publication:
+            Lieu_de_publication: Reston, Virginie, É.-U.
+            Éditeur: U.S. Geological Survey
+      Dénominateur_de_l’échelle_de_la_source: 10 000 000
+      Type_de_média_source: En ligne
+      Période_de_temps_du_contenu_de_la_source:
+        Information_sur_la_période_de_temps: 
+          Date_unique:
+            Date_calendaire: 2006
+        Référence_à_l’actualité_de_la_source: Date de publication 
+      Citation_abrégée_de_la_source: NA_Hydro06
+      Contribution_de_la_source: Données spatiales et d’attributs
+
+    Étape_du_processus:
+      Description_du_processus:
+        Le dessin au trait issu du fichier de l’Atlas du Canada sur les limites 
+        administratives à l’échelle de 1/6 000 000 a fait l’objet d’un ajustement à la couche 
+        de l’Atlas de l’Amérique du Nord sur l’hydrographie. L’attribut désignant le pays a 
+        été ajouté aux données.
+      Citation_abrégée_utilisée_par_la_source: Limites AC 6M
+      Citation_abrégée_utilisée_par_la_source: AAN - Hydro
+      Date_du_processus: 2003
+
+    Étape_du_processus:
+      Description_du_processus:
+        Le dessin au trait issu de la carte de référence des États-Unis à l’échelle 
+        de 1/5 000 000 a fait l’objet d’un ajustement à la couche de l’Atlas de l’Amérique 
+        du Nord sur l’hydrographie. L’attribut désignant le pays a été ajouté aux données.
+      Citation_abrégée_utilisée_par_la_source: Limites É.-U. 5M 
+      Citation_abrégée_utilisée_par_la_source: AAN - Hydro
+      Date_du_processus: 2003
+
+    Étape_du_processus:
+      Description_du_processus:
+        Le dessin au trait issu du jeu de données topographiques à l’échelle de 1/4 000 000 
+        sur le Mexique a fait l’objet d’un ajustement à la couche de l’Atlas de l’Amérique 
+        du Nord sur l’hydrographie. L’attribut désignant le pays a été ajouté aux données.
+      Citation_abrégée_utilisée_par_la_source: Mexique 4M 
+      Citation_abrégée_utilisée_par_la_source: AAN - Hydro
+      Date_du_processus: 2003
+
+    Étape_du_processus:
+      Description_du_processus:
+        Les données sur des limites situées à l’extérieur du Canada, du Mexique et 
+        des États-Unis ont été compilées à partir du jeu de données de la série de cartes de 
+        référence à l’échelle de 1/10 000 000 de l’Atlas national du Canada sur l’Amérique du 
+        Nord. Le dessin au trait a été ajusté à la couche de l’Atlas de l’Amérique du Nord sur 
+        l’hydrographie. L’attribut désignant un pays étranger a été ajouté aux données.
+      Citation_abrégée_utilisée_par_la_source: Référence Amérique du Nord
+      Citation_abrégée_utilisée_par_la_source: AAN - Hydro
+      Date_du_processus: 2004
+
+    Étape_du_processus:
+      Description_du_processus:
+        Le dessin au trait a fait l’objet d’un ajustement cartographique le long des 
+        frontières nationales pour s’assurer que les frontières adjacentes sont correctement 
+        reliées entre elles et des attributs ont été ajoutés.
+      Date_du_processus: 2004
+
+    Étape_du_processus:
+      Description_du_processus:
+        Puisque le dessin au trait a été effectué d’après différentes sources et échelles, la 
+        totalité du fichier sur les limites administratives a fait l’objet d’une vérification 
+        cartographique finale visant à en assurer la compatibilité cartographique à l’échelle 
+        de 1/10 000 000. Chaque pays a ensuite effectué sa propre vérification cartographique 
+        finale de la sélection et du positionnement des traits. Les attributs ont également 
+        été vérifiés.
+      Date_du_processus: 2004
+
+    Étape_du_processus:
+      Description_du_processus:
+  Les lignes des limites qui suivent des entités hydrographiques (cours d’eau et lacs) aux ÉtatsUnis ont été ajustées pour correspondre aux nouvelles positions des entités hydrographiques.  On a effectué un contrôle de la qualité des données afin de vérifier les attributs et la géométrie et on a apporté les corrections avant la diffusion.
+      Citation_abrégée_utilisée_par_la_source: NA_Hydro06
+      Date_du_processus: 2004, 2006
+
+Information_sur_l’organisation_des_données_spatials:
+  Méthode_de_référence_spatiale_directe: Vectorielle
+  Information_sur_les_objets_ponctuels_et_vectoriels:
+    Description_des_termes_SDTS:
+      Type_SDTS_d'objets_ponctuels_et_vectoriels: Chaîne
+      Nombre_d'objets_ponctuels_et_vectoriels: 3067
+    Description_des_termes_SDTS:
+      Type_SDTS_d'objets_ponctuels_et_vectoriels: Polygones-GT composés de chaînes
+      Nombre_d'objets_ponctuels_et_vectoriels: 1832
+
+Information_de_référence_spatiale:
+  Définition_du_système_de_coordonnées_horizontales:
+    Géographique: 
+      Résolution_en_latitude: 0.000001 
+      Résolution_en_longitude: 0.000001
+      Unités_de_coordonnées_géographiques: Degrés et décimales 
+    Modèle_géodésique: 
+      Nom_du_datum_horizontal: Système de référence nord-américain de 1983
+      Nom_de_l'éllipsoïde: Système de référence géodésique de 1980
+      Demi-grand_axe: 6378137.000000
+      Dénominateur_du_rapport_d'aplatissement: 298.257222
+
+Information_sur_l’entité_et_l’attribut:
+  Description_détaillée:
+    Type_d’entité:
+      Étiquette_de_type_d’entité: Boundary line
+      Définition_de_type_d’entité: 
+        Ligne délimitant les zones juridictionnelles des divers paliers de gouvernement ou 
+        représentant la ligne internationale de changement de date.
+      Source_de_la_définition_de_type_d’entité: Groupe du SIG de l’Atlas de l’Amérique du Nord
+    Attribut:
+      Étiquette_d’attribut: UIDENT
+      Définition_d’attribut:
+        Numéro d’identification unique attribué à chaque entité dans les données de l’Atlas de 
+        l’Amérique du Nord. Les deux derniers chiffres de l'identificateur sont un suffixe 
+        montrant la couche cartographique.
+      Source_de_la définition_d’attribut: Groupe du SIG de l’Atlas de l’Amérique du Nord
+      Valeurs_du_domaine_d’attribut:
+        Étendue_du_domaine:
+          Étendue_minimum_du_domaine: 32103
+          Étendue_maximum_du_domaine: 328103
+    Attribut:
+      Étiquette_d’attribut: Type
+      Définition_d’attribut: Type de ligne de limite
+      Source_de_la définition_d’attribut: Groupe du SIG de l’Atlas de l’Amérique du Nord
+      Valeurs_du_domaine_d’attribut:
+        Domaine_énuméré:
+          Valeur_du_Domaine_énuméré: 10
+          Définition_de_la_valeur_du_domaine_énuméré: 
+            La ligne représente la frontière entre le Mexique et les États-Unis.
+          Source_de_la_définition_de_la_valeur_du_domaine_énuméré: 
+            Groupe du SIG de l’Atlas de l’Amérique du Nord
+        Domaine_énuméré:
+          Valeur_du_Domaine_énuméré: 11
+          Définition_de_la_valeur_du_domaine_énuméré: 
+            La ligne représente la frontière entre le Mexique et le Guatemala ou le Belize.
+          Source_de_la_définition_de_la_valeur_du_domaine_énuméré: 
+            Groupe du SIG de l’Atlas de l’Amérique du Nord
+        Domaine_énuméré:
+          Valeur_du_Domaine_énuméré: 12
+          Définition_de_la_valeur_du_domaine_énuméré: 
+            La ligne représente la frontière entre le Canada et les États-Unis.
+          Source_de_la_définition_de_la_valeur_du_domaine_énuméré: 
+            Groupe du SIG de l’Atlas de l’Amérique du Nord
+        Domaine_énuméré:
+          Valeur_du_Domaine_énuméré: 35
+          Définition_de_la_valeur_du_domaine_énuméré: 
+            La ligne représente la frontière entre les pays non parties de l’ALENA.
+          Source_de_la_définition_de_la_valeur_du_domaine_énuméré: 
+            Groupe du SIG de l’Atlas de l’Amérique du Nord
+        Domaine_énuméré:
+          Valeur_du_Domaine_énuméré: 36
+          Définition_de_la_valeur_du_domaine_énuméré: 
+            La ligne représente une frontière provinciale, territoriale ou d’État.
+          Source_de_la_définition_de_la_valeur_du_domaine_énuméré: 
+            Groupe du SIG de l’Atlas de l’Amérique du Nord
+        Domaine_énuméré:
+          Valeur_du_Domaine_énuméré: 39
+          Définition_de_la_valeur_du_domaine_énuméré: 
+            La ligne représente la frontière entre le Canada et le Groenland.
+          Source_de_la_définition_de_la_valeur_du_domaine_énuméré: 
+            Groupe du SIG de l’Atlas de l’Amérique du Nord
+        Domaine_énuméré:
+          Valeur_du_Domaine_énuméré: 42
+          Définition_de_la_valeur_du_domaine_énuméré: 
+            La ligne représente la ligne internationale de changement de date.
+          Source_de_la_définition_de_la_valeur_du_domaine_énuméré: 
+            Groupe du SIG de l’Atlas de l’Amérique du Nord
+        Valeur_du_Domaine_énuméré:
+          Valeur_du_Domaine_énuméré: 89
+          Définition_de_la_valeur_du_domaine_énuméré: 
+            La ligne représente la frontière entre les hémisphères.
+          Source_de_la_définition_de_la_valeur_du_domaine_énuméré: : 
+            Groupe du SIG de l’Atlas de l’Amérique du Nord
+   Attribut:
+      Étiquette_d’attribut: Country
+      Définition_d’attribut: 
+        Pays où se trouve la ligne représentant la limite juridictionnelle.
+      Source_de_la définition_d’attribut: Groupe du SIG de l’Atlas de l’Amérique du Nord
+      Valeurs_du_domaine_d’attribut:
+        Domaine_énuméré:
+          Valeur_du_Domaine_énuméré: CAN
+          Définition_de_la_valeur_du_domaine_énuméré: La limite est située au Canada.
+          Source_de_la_définition_de_la_valeur_du_domaine_énuméré: 
+            Groupe du SIG de l’Atlas de l’Amérique du Nord
+        Domaine_énuméré:
+          Valeur_du_Domaine_énuméré: MEX
+          Définition_de_la_valeur_du_domaine_énuméré: La limite est située au Mexique.
+          Source_de_la_définition_de_la_valeur_du_domaine_énuméré: 
+            Groupe du SIG de l’Atlas de l’Amérique du Nord
+        Domaine_énuméré:
+          Valeur_du_Domaine_énuméré: USA
+          Définition_de_la_valeur_du_domaine_énuméré: 
+            La limite est située aux États-Unis.
+          Source_de_la_définition_de_la_valeur_du_domaine_énuméré: 
+            Groupe du SIG de l’Atlas de l’Amérique du Nord
+        Domaine_énuméré:
+          Valeur_du_Domaine_énuméré: FN
+          Définition_de_la_valeur_du_domaine_énuméré: 
+            La limite est située à l’extérieur du Canada, du Mexique ou des États-Unis.
+          Source_de_la_définition_de_la_valeur_du_domaine_énuméré: 
+            Groupe du SIG de l’Atlas de l’Amérique du Nord
+        Domaine_énuméré:
+          Valeur_du_Domaine_énuméré: CAN USA
+          Définition_de_la_valeur_du_domaine_énuméré: 
+            Ce détail cartographique coïncide avec la frontière politique.
+          Source_de_la_définition_de_la_valeur_du_domaine_énuméré: 
+            Groupe du SIG de l’Atlas de l’Amérique du Nord
+        Domaine_énuméré:
+          Valeur_du_Domaine_énuméré: MEX USA
+          Définition_de_la_valeur_du_domaine_énuméré: 
+            Ce détail cartographique coïncide avec la frontière politique.
+          Source_de_la_définition_de_la_valeur_du_domaine_énuméré: 
+            Groupe du SIG de l’Atlas de l’Amérique du Nord
+        Domaine_énuméré:
+          Valeur_du_Domaine_énuméré: MEX FN
+          Définition_de_la_valeur_du_domaine_énuméré: 
+            Ce détail cartographique coïncide avec la frontière politique.
+          Source_de_la_définition_de_la_valeur_du_domaine_énuméré: 
+            Groupe du SIG de l’Atlas de l’Amérique du Nord
+
+  Description_détaillée:
+    Type_d’entité:
+      Étiquette_de_type_d’entité: Jurisdictional area 
+      Définition_de_type_d’entité: 
+        Zone dans laquelle un seul palier de gouvernement détient l’autorité.
+      Source_de_la_définition_de_type_d’entité: Groupe du SIG de l’Atlas de l’Amérique du Nord
+    Attribut:
+      Étiquette_d’attribut: UIDENT
+      Définition_d’attribut:
+        Numéro d’identification unique attribué à chaque entité dans les données de l’Atlas de 
+        l’Amérique du Nord. Les deux derniers chiffres de l'identificateur sont un suffixe 
+        montrant la couche cartographique.
+      Source_de_la définition_d’attribut: Groupe du SIG de l’Atlas de l’Amérique du Nord
+      Valeurs_du_domaine_d’attribut:
+        Étendue_du_domaine:
+          Étendue_minimum_du_domaine: 104
+          Étendue_maximum_du_domaine: 184204
+    Attribut:
+      Étiquette_d’attribut: Name
+      Définition_d’attribut: Nom officiel de la zone.
+      Source_de_la définition_d’attribut: Groupe du SIG de l’Atlas de l’Amérique du Nord
+      Valeurs_du_domaine_d’attribut:
+        Domaine_de_l'ensemble_de_code:
+          Nom_de_l'ensemble_du_code: Base de données toponymiques du Canada
+          Source_de_l'ensemble_du_code: 
+            Commission de toponymie du Canada
+      Valeurs_du_domaine_d’attribut:
+        Domaine_de_l'ensemble_de_code:
+          Nom_de_l'ensemble_du_code: Jeu de données toponymiques à l’échelle de 1/4 000 000
+          Source_de_l'ensemble_du_code: 
+            Instituto Nacional de Estadística Geografía e Informática (INEGI)
+      Valeurs_du_domaine_d’attribut:
+        Domaine_de_l'ensemble_de_code:
+          Nom_de_l'ensemble_du_code: Système d’information toponymique
+          Source_de_l'ensemble_du_code: U.S. Board on Geographic Names
+    Attribut:
+      Étiquette_d’attribut: COUNTRY
+      Définition_d’attribut: Pays dans lequel se trouve la zone juridictionnelle. 
+      Source_de_la définition_d’attribut: Groupe du SIG de l’Atlas de l’Amérique du Nord
+      Valeurs_du_domaine_d’attribut:
+        Domaine_énuméré:
+          Valeur_du_Domaine_énuméré: CAN
+          Définition_de_la_valeur_du_domaine_énuméré: La zone est située au Canada.
+          Source_de_la_définition_de_la_valeur_du_domaine_énuméré: 
+            Groupe du SIG de l’Atlas de l’Amérique du Nord
+        Domaine_énuméré:
+          Valeur_du_Domaine_énuméré: MEX
+          Définition_de_la_valeur_du_domaine_énuméré: La zone est située au Mexique.
+          Source_de_la_définition_de_la_valeur_du_domaine_énuméré: 
+            Groupe du SIG de l’Atlas de l’Amérique du Nord
+        Domaine_énuméré:
+          Valeur_du_Domaine_énuméré: USA
+          Définition_de_la_valeur_du_domaine_énuméré: 
+            La zone est située aux États-Unis.
+          Source_de_la_définition_de_la_valeur_du_domaine_énuméré: 
+            Groupe du SIG de l’Atlas de l’Amérique du Nord
+        Domaine_énuméré:
+          Valeur_du_Domaine_énuméré: FN
+          Définition_de_la_valeur_du_domaine_énuméré: 
+            La zone est située à l’extérieur du Canada, du Mexique ou des États-Unis.
+          Source_de_la_définition_de_la_valeur_du_domaine_énuméré: 
+            Groupe du SIG de l’Atlas de l’Amérique du Nord
+    Attribut:
+      Étiquette_d’attribut: StateAbb
+      Définition_d’attribut: 
+        Code de l’Organisation internationale de normalisation (ISO) se rattachant à l’État, à 
+        la province ou au territoire. Ce code est composé d’un code à deux caractères relatif 
+        à un pays suivi d’un code à deux ou à trois caractères relatif à un État, une province 
+        ou un territoire.
+      Source_de_la définition_d’attribut: Groupe du SIG de l’Atlas de l’Amérique du Nord
+      Valeurs_du_domaine_d’attribut:
+        Domaine_de_l'ensemble_de_code:
+          Nom_de_l'ensemble_du_code: Codes ISO 3166-2 pour le Canada
+          Source_de_l'ensemble_du_code: 
+            http://encyclopedia.thefreedictionary.com/ISO%203166-2%20codes%20for%20Canada
+      Valeurs_du_domaine_d’attribut:
+        Domaine_de_l'ensemble_de_code:
+          Nom_de_l'ensemble_du_code: Codes ISO 3166-2 pour le Mexique
+          Source_de_l'ensemble_du_code: 
+            http://encyclopedia.thefreedictionary.com/ISO%203166-2%20codes%20for%20Mexico
+      Valeurs_du_domaine_d’attribut:
+        Domaine_de_l'ensemble_de_code:
+          Nom_de_l'ensemble_du_code: Codes ISO 3166-2 pour les États-Unis
+          Source_de_l'ensemble_du_code: 
+            http://encyclopedia.thefreedictionary.com/ISO%203166-2%20codes%20for%20the%20United%20States 
+
+Information_de_distribution:
+  Distributeur:
+    Information_sur_le_contact:
+      Organisation_contact_primaire:
+        Organisation_contact: 
+          Gouvernement du Canada, Ressources naturelles Canada, Secteur des Sciences de la Terre, Direction de la gestion et de la diffusion des données
+      Adresse_du_contact:
+        Type_d’adresse: Adresse postale 
+        Adresse: 615, rue Booth, bureau 650 
+        Ville: Ottawa
+        Province_ou_État: Ontario
+        Pays: Canada
+        Code_postal_ou_ZIP: K1A 0E9
+      Télécopieur_du_contact: +01 613 947 2410
+      Courriel_du_contact: info@GeoGratis.gc.ca
+Information_de_distribution:
+  Distributeur:
+    Information_sur_le_contact:
+      Organisation_contact_primaire:
+        Organisation_contact: INEGI
+        Personne_contact: Jose Luis Ornelas de Anda 
+      Adresse_du_contact:
+        Type_d’adresse: Adresse postale 
+        Adresse: Avenida Heroe de Nacozari Sur 2301
+        Adresse: Fraccionamiento Jardines del Parque
+        Ville: Aguascalientes
+        Province_ou_État: Aguascalientes
+        Pays: Mexique
+        Code_postal_ou_ZIP: 20270
+      Numero_de_téléphone_du_contact: 52 449 910 5300 ext 5856
+      Courriel_du_contact: jose.ornelas@inegi.gob.mx 
+Information_de_distribution:
+  Distributeur: 
+    Information_sur_le_contact:
+      Organisation_contact_primaire:
+        Organisation_contact: Centre de données EROS du U.S. Geological Survey
+      Adresse_du_contact:
+        Type_d’adresse: Adresse postale 
+        Adresse: 47914 252nd Street
+        Ville: Sioux Falls
+        Province_ou_État: Dakota du Sud
+        Pays: États-Unis
+        Code_postal_ou_ZIP: 57198-0001
+      Numero_de_téléphone_du_contact: 800 252 4547
+      Numero_de_téléphone_du_contact: 605 594 6151
+      Contact_TDD/TTY_Telephone: 605 594 6933
+      Télécopieur_du_contact: 605 594 6589
+      Courriel_du_contact: custserv@usgs.gov
+
+  Responsabilité_de_distribution: 
+    Bien que ces données aient été traitées avec succès au moyen des systèmes informatiques de 
+    Ressources naturelles Canada, de l’Instituto Nacional de Estadística Geografía e 
+    Informática et du U.S. Geological Survey, ces organismes n'offrent aucune garantie, ni 
+    explicite ni tacite, en ce qui concerne leur utilité sur un autre système et leur 
+    diffusion. En outre, ils n’assument aucune responsabilité quant à leur utilisation.  
+  Processus_de_commande_standard:
+    Forme_numérique:
+      Information_de_transfert_numérique:
+        Nom_du_format: ARCE
+      Option_de_transfert_numérique:
+        Option_en_ligne:
+          Info_sur_le_contact_par_ordinateur:
+            Adresse_réseau:
+              Nom_du_ressource_réseau:
+                http://geogratis.gc.ca/download/frameworkdata/North_America_Atlas10M/boundaries/
+              Nom_du_ressource_réseau: http://antares.inegi.gob.mx/atlas_norteamerica/
+              Nom_du_ressource_réseau: http://nationalatlas.gov/atlasftp-na.html
+    Forme_numérique:
+      Information_de_transfert_numérique:
+        Nom_du_format: GML
+      Option_de_transfert_numérique:
+        Option_en_ligne:
+          Info_sur_le_contact_par_ordinateur:
+            Adresse_réseau:
+              Nom_du_ressource_réseau: 
+                http://geogratis.gc.ca/download/frameworkdata/North_America_Atlas10M/boundaries/
+              Nom_du_ressource_réseau: http://antares.inegi.gob.mx/atlas_norteamerica/     Forme_numérique:
+      Information_de_transfert_numérique:
+        Nom_du_format: Shapefile de l’ESRI 
+      Option_de_transfert_numérique:
+        Option_en_ligne:
+          Info_sur_le_contact_par_ordinateur:
+            Adresse_réseau:
+              Nom_du_ressource_réseau: 
+                http://geogratis.gc.ca/download/frameworkdata/North_America_Atlas10M/boundaries/
+              Nom_du_ressource_réseau: http://antares.inegi.gob.mx/atlas_norteamerica/
+              Nom_du_ressource_réseau: http://nationalatlas.gov/atlasftp-na.html
+    Frais:
+      Gratuit-Free
+
+Information_de_référence_sur_les_métadonnées:
+  Date_des_métadonnées: 200608
+  Contact_pour_les_métadonnées:
+    Information_sur_le_contact:
+      Organisation_contact_primaire:
+        Organisation_contact: 
+          Gouvernement du Canada, Ressources naturelles Canada, Centre canadien de 
+          télédétection, Atlas du Canada
+      Personne_contact: Services à la clientèle de l’Atlas du Canada
+      Adresse_du_contact:
+        Type_d’adresse: Adresse postale 
+        Adresse: 615, rue Booth, bureau 650 
+        Ville: Ottawa
+        Province_ou_État: Ontario
+        Pays: Canada
+        Code_postal_ou_ZIP: K1A 0E9
+      Télécopieur_du_contact: +01 613 947 2410
+      Courriel_du_contact: info@atlas.gc.ca	
+
+  Contact_pour_les_métadonnées:
+   Information_sur_le_contact:
+      Organisation_contact_primaire:
+        Organisation_contact: Dirección General de Geografía, INEGI
+      Personne_contact: Administrador de Metadatos Geográficos
+      Adresse_du_contact:
+        Type_d’adresse: Adresse postale 
+        Adresse: Av Heroe de Nacozari Sur 2301
+        Adresse: Fracc Jardines del Parque
+        Ville: Aguascalientes
+        Province_ou_État: Aguascalientes
+        Pays: Mexique
+        Code_postal_ou_ZIP: 20270
+      Numero_de_téléphone_du_contact: 52 449 910 53 00 poste 5856
+      Courriel_du_contact: rafael.arrioja@inegi.gob.mx 
+
+  Contact_pour_les_métadonnées:
+    Information_sur_le_contact:
+      Personne_contact_primaire:
+        Personne_contact: Peg Rawson 
+        Organisation_contact: U.S. Geological Survey
+      Adresse_du_contact:
+        Type_d’adresse: Adresse postale 
+        Adresse: 561 National Center
+        Ville: Reston
+
+        Province_ou_État: Virginie
+        Pays: États-Unis
+        Code_postal_ou_ZIP: 20192
+      Numero_de_téléphone_du_contact: 703 648 4183
+      Courriel_du_contact: atlasmail@usgs.gov
+
+  Nom des normes utilisées pour les métadonnées: 
+    Normes du FGDC sur le contenu des métadonnées géospatiales numériques
+  Version des normes des métadonnées: FGDC-STD-001-1998
