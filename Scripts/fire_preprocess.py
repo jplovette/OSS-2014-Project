@@ -11,6 +11,7 @@ import gdal as gdal
 from gdalconst import *
 import osr
 
+
 #====================================
 #====================================
 #====================================
@@ -22,13 +23,13 @@ def correctData(data):
 	return(np.where(data>=900,data*-1,data))
 
 def reclassAnom(data):
-	newarray = data
-	original = [-900,-9998,-9999,-10000] # 900 snow/aerosol, 9998 inland water, 9999 sea/ocean,
+	temparray = data
+	original = [-10000,-9999,-9998,-900] # 900 snow/aerosol, 9998 inland water, 9999 sea/ocean,
 											# 10000 not enough data for inversion through period
-	to = [-1,-2,-3,-4]
+	to = [-4,-3,-2,-1]
 	for i in range(len(original)):
-		np.where(newarray==original[i],to[i],newarray)
-	return(newarray)
+		temparray = np.where(temparray==original[i],to[i],temparray)
+	return(temparray)
 	
 def compressFireData(annual_fire):
 	#some sorting routine to combine 12 months of fire data
@@ -101,7 +102,7 @@ def threeDigitString(day):
 
 if __name__=='__main__':
 	workspace = "/Users/jplovette/Desktop/MCD45"
-	first_year = 2001
+	first_year = 2000
 	last_year = 2014
 	year_array = np.arange(first_year,last_year+1)
 	month_array = np.arange(1,13)
